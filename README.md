@@ -9,6 +9,14 @@ Ingeniero Comercial de **Temuco, Chile**, y estudiante del **Bootcamp Full Stack
 - 🌱 **Hoy aprendo:** Django, PostgreSQL, Power BI y SQL.
 - 🗣️ **Idiomas:** español nativo, inglés intermedio (uso laboral diario en Austria).
 
+## 🎯 Qué busco
+
+Un rol de **Analista de Procesos, Operaciones o Control de Gestión**, o un puesto de **desarrollo junior con Python y Django**, donde pueda unir el análisis de datos con la creación de soluciones de software.
+
+## 💡 Intereses
+
+Automatización de procesos, análisis de datos y visualización (Power BI), desarrollo web con Django y uso de IA generativa para mejorar la productividad.
+
 ## 🛠️ Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -26,7 +34,9 @@ Ingeniero Comercial de **Temuco, Chile**, y estudiante del **Bootcamp Full Stack
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [Arriendos Chile](https://github.com/alvarolealmoraga-design/arriendos-chile) | Sitio para publicar y arrendar inmuebles, con filtros por región y comuna, roles de usuario y permisos | Django · PostgreSQL |
-| [Viajes Chile](https://github.com/alvarolealmoraga-design/viajes-chile) | Landing page responsiva de una agencia de viajes, publicada con GitHub Pages | HTML · CSS · Bootstrap · JavaScript |
+| [Viajes Chile](https://github.com/alvarolealmoraga-design/viajes-chile) · [ver en línea](https://alvarolealmoraga-design.github.io/viajes-chile/) | Landing page responsiva de una agencia de viajes, publicada con GitHub Pages | HTML · CSS · Bootstrap · JavaScript |
+
+📄 [Planificación de mi portafolio](PORTAFOLIO.md): repositorio elegido, ejemplo analizado y buenas prácticas que aplico.
 
 ## 🤝 ¿Por qué contactarme?
 
